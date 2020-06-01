@@ -1,0 +1,12 @@
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+D:\Swati\POCs\Contacts\ContactsWebApplication\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
